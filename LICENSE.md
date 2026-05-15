@@ -1,4 +1,4 @@
-# 
+# ultimate Polymarket Plugin | trailing-stops + automated-trade-execution is the best Polymarket plugin, featuring trailing-stops and automated-trade-execution. Smart, fast, and
 
 
 
